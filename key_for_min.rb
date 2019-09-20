@@ -11,5 +11,4 @@ def key_for_min_value(hash)
    end
 end
       lowest_key
-      lowest_value
 end 
